@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harika Sahini</h1>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<br/>
 - 🔭 I’m currently working as a software developer at Northwest Missouri State University.
 - 🌱 I’m currently learning new technologies in web application development.
 - 💬 Ask me about art.
