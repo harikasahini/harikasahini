@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Harika Sahini</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <br/>
 
-   - 🔭 I’m currently working as a software developer at Northwest Missouri State University.
-   - 🌱 I’m currently learning new technologies in web application development.
-   - 💬 Ask me about art.
+   - 🔭 I’m currently working as a software developer at Learning and Teaching Centre, Northwest Missouri State University.
+   - 👩‍💻 I deal with designing and developing web applications at my workplace.
+   - 💬 Ask me about Java, Spring Boot, ReactJS,VueJS.
+   - 🛩️ Love to explore places.
    - 📫 Reach me on sahiniharika7@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikasahini&label=Profile%20views&color=0e75b6&style=flat" alt="harikasahini" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harika-sahini-648b00159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harika-sahini-648b00159/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harika-sahini-648b00159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harika-sahini-648b00159/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
