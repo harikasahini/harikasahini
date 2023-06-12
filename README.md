@@ -3,8 +3,8 @@
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <br/>
 
-   - 🔭 I am an experienced full stack developer proficient in a range of technologies, including Java, .Net, MVC, C#, C, Spring Boot,       ReactJS, VueJS, and MySQL.
-   - 👩‍💻 I mostly dealed with designing and developing web applications at my workplace.
+   - 🔭 I am an experienced full stack developer, proficient in Java, C#, C, Spring Boot, .NET, Spring MVC, ReactJS, VueJS, and MySQL.
+   - 👩‍💻 I mostly worked on designing and developing web applications at my workplace.
    - 💬 Ask me about Java, Spring Boot, ReactJS,VueJS.
    - 🛩️ Love to explore places.
    - 📫 Reach me on sahiniharika7@gmail.com
